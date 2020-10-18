@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe.config
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.pdb
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\Console_PercentualEleicoes.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\Console_PercentualEleicoes.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.pdb
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe.config
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.pdb
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\obj\Debug\Console_PercentualEleicoes.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\obj\Debug\Console_PercentualEleicoes.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.pdb

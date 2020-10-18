@@ -1,0 +1,7 @@
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe.config
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\bin\Debug\PercentualEleicoes.pdb
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.exe
+C:\Users\Alexander\Documents\Dev\C#\PercentualEleicoes\PercentualEleicoes\obj\Debug\PercentualEleicoes.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\bin\Debug\Console_ValorFinalCarro.exe.config
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\bin\Debug\Console_ValorFinalCarro.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\bin\Debug\Console_ValorFinalCarro.pdb
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\obj\Debug\Console_ValorFinalCarro.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\obj\Debug\Console_ValorFinalCarro.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\obj\Debug\Console_ValorFinalCarro.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_ValorFinalCarro\Console_ValorFinalCarro\obj\Debug\Console_ValorFinalCarro.pdb
