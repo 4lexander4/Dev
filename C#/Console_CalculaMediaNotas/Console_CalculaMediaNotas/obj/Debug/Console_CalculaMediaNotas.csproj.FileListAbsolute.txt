@@ -1,0 +1,7 @@
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\obj\Debug\Console_CalculaMediaNotas.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\obj\Debug\Console_CalculaMediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\bin\Debug\Console_CalculaMediaNotas.exe.config
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\bin\Debug\Console_CalculaMediaNotas.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\bin\Debug\Console_CalculaMediaNotas.pdb
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\obj\Debug\Console_CalculaMediaNotas.exe
+C:\Users\Alexander\Documents\Dev\C#\Console_CalculaMediaNotas\Console_CalculaMediaNotas\obj\Debug\Console_CalculaMediaNotas.pdb
